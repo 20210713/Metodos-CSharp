@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\bin\Debug\netcoreapp3.1\Figuras geometricas metodos.exe
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\bin\Debug\netcoreapp3.1\Figuras geometricas metodos.deps.json
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\bin\Debug\netcoreapp3.1\Figuras geometricas metodos.runtimeconfig.json
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\bin\Debug\netcoreapp3.1\Figuras geometricas metodos.runtimeconfig.dev.json
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\bin\Debug\netcoreapp3.1\Figuras geometricas metodos.dll
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\bin\Debug\netcoreapp3.1\Figuras geometricas metodos.pdb
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\obj\Debug\netcoreapp3.1\Figuras geometricas metodos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\obj\Debug\netcoreapp3.1\Figuras geometricas metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\obj\Debug\netcoreapp3.1\Figuras geometricas metodos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\obj\Debug\netcoreapp3.1\Figuras geometricas metodos.AssemblyInfo.cs
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\obj\Debug\netcoreapp3.1\Figuras geometricas metodos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\obj\Debug\netcoreapp3.1\Figuras geometricas metodos.dll
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\obj\Debug\netcoreapp3.1\Figuras geometricas metodos.pdb
+C:\Users\User\source\repos\Figuras geometricas metodos\Figuras geometricas metodos\obj\Debug\netcoreapp3.1\Figuras geometricas metodos.genruntimeconfig.cache
